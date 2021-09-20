@@ -11,11 +11,11 @@
 
 ### Day 1: September 19, 2021
 
-**Today's Progress**: <!-- Fixed CSS, worked on canvas functionality for the app. -->
+**Today's Progress**: Deployed Gulp task runner, worked on portfolio landing page.
 
-**Thoughts**: <!-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Thoughts**: I struggled with setting up the bootstrap web template, but, overall I was able to make the necessary setting adjustments to make sure the test engine performed as it should.
 
-**Link(s) to work**: <!-- [Calculator App](http://www.example.com) -->
+**Link(s) to work**: N/A
 
 
 <!-- ### Day 1: June 27, Monday
