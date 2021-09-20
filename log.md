@@ -3,7 +3,7 @@
 ### Day 0: September 18, 2021
 
 
-**Today's Progress**: Added bootstrap, worked on applying responsive classes to course given work.
+**Today's Progress**: Added Bootstrap, worked on applying responsive classes to freeCodeCamp course.
 
 **Thoughts:** I really felt comfortable with applying classes to html structure. Bootstrap is something I would like to dive into more.
 
@@ -11,9 +11,19 @@
 
 ### Day 1: September 19, 2021
 
+
 **Today's Progress**: Deployed Gulp task runner, worked on portfolio landing page.
 
 **Thoughts**: I struggled with setting up the bootstrap web template, but, overall I was able to make the necessary setting adjustments to make sure the test engine performed as it should.
+
+**Link(s) to work**: N/A
+
+### Day 1: September 19, 2021
+
+
+**Today's Progress**: Added jQuery, worked on applying event handling and CSS animation to freeCodeCamp course.
+
+**Thoughts**: I was enlighten by how it functions, I have very minimal knowledge and would like to explore web app notification alert library and other animations.
 
 **Link(s) to work**: N/A
 
