@@ -27,13 +27,13 @@
 
 **Link(s) to work**: N/A
 
+### Day 2: September 20, 2021
 
-<!-- ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added Liquid (Shopify template language), worked on applying theme kit to the project so I can make live changes.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: The theme kit setup was seemless. I need to make a development environment so I may update my changes there instead of making them directly to the Live environment.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link(s) to work**: N/A
+
+

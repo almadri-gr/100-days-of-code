@@ -9,3 +9,8 @@ Started working on my first training courses in freeCodeCamp. The first course c
 
 ### R1D2
 Started working on my second training course in freeCodeCamp. jQuery is a javascript library that I would like to explore more to have high quality notificaiton CSS.
+
+### R1D3
+Began working on my Shopify store template for a jewelry company. Liquid is the template language Shopify uses, I will be working on a course that helps me apply Shopify inputs to backend. 
+
+
